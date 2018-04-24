@@ -1,0 +1,5 @@
+/Users/ikram/Desktop/csharp/Grade/Grade/bin/Debug/Grade.exe
+/Users/ikram/Desktop/csharp/Grade/Grade/bin/Debug/Grade.pdb
+/Users/ikram/Desktop/csharp/Grade/Grade/obj/x86/Debug/Grade.csproj.CoreCompileInputs.cache
+/Users/ikram/Desktop/csharp/Grade/Grade/obj/x86/Debug/Grade.exe
+/Users/ikram/Desktop/csharp/Grade/Grade/obj/x86/Debug/Grade.pdb

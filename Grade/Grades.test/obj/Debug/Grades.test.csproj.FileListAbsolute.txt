@@ -1,0 +1,11 @@
+/Users/ikram/Desktop/csharp/Grade/Grades.test/bin/Debug/Grades.test.dll
+/Users/ikram/Desktop/csharp/Grade/Grades.test/bin/Debug/Grades.test.pdb
+/Users/ikram/Desktop/csharp/Grade/Grades.test/bin/Debug/Grade.exe
+/Users/ikram/Desktop/csharp/Grade/Grades.test/bin/Debug/nunit.framework.dll
+/Users/ikram/Desktop/csharp/Grade/Grades.test/bin/Debug/Grade.pdb
+/Users/ikram/Desktop/csharp/Grade/Grades.test/bin/Debug/nunit.framework.pdb
+/Users/ikram/Desktop/csharp/Grade/Grades.test/bin/Debug/nunit.framework.xml
+/Users/ikram/Desktop/csharp/Grade/Grades.test/obj/Debug/Grades.test.csprojResolveAssemblyReference.cache
+/Users/ikram/Desktop/csharp/Grade/Grades.test/obj/Debug/Grades.test.csproj.CoreCompileInputs.cache
+/Users/ikram/Desktop/csharp/Grade/Grades.test/obj/Debug/Grades.test.dll
+/Users/ikram/Desktop/csharp/Grade/Grades.test/obj/Debug/Grades.test.pdb

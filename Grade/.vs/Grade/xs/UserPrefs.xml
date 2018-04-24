@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{3F3BDEAA-FCDF-4AAC-B553-D9B6C7DA18AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Grades.test/Types/ReferenceTypeTests.cs">
+    <Files>
+      <File FileName="Grades.test/GradeBookTests.cs" Line="3" Column="1" />
+      <File FileName="Grade/Program.cs" Line="10" Column="12" />
+      <File FileName="Grades.test/Types/ReferenceTypeTests.cs" Line="14" Column="19" />
+      <File FileName="Grade/GradeBook.cs" Line="53" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ikram/Desktop/csharp/Grade/Grades.Test/UnitTest1.cs" relfile="Grades.Test/UnitTest1.cs" line="8" column="1" />
+      <Breakpoint file="/Users/ikram/Desktop/csharp/Grade/Gradetest/Test.cs" relfile="Gradetest/Test.cs" line="5" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Grade PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
